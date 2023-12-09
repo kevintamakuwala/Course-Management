@@ -1,1 +1,1 @@
-Backend for Courses Management System Written in Spring Boot. 
+Courses Management System Written in Spring Boot and ReactJs. 
